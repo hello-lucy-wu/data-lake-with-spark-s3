@@ -1,6 +1,6 @@
 .DS_Store
 data
-
+dl.cfg
 derby.log
 metastore_db
 	
